@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.9.8.0" Name="Base">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="Base" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <circle id="35" c="18,-32.5,0" d="2">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="36" c="9.18485099361E-15,-25,0" d="21.5">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="37" c="18,32.5,0" d="2">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="46" c="-9.18485099361E-15,25,0" d="21.5">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="47" c="-18,32.5,0" d="2">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="56" c="-18,-32.5,0" d="2">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="57" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-4.4,-2.7,0</p>
+            <p>-4.9,-4,0</p>
+            <p>-19.4,-4,0</p>
+            <p>-19.4,4,0</p>
+            <p>-4.9,4,0</p>
+            <p>-4.4,2.7,0</p>
+            <p>-2.4,2.7,0</p>
+            <p>-2.4,-2.7,0</p>
+          </pts>
+        </pline>
+        <pline id="58" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>7,-43,0</p>
+            <p>7.1054273576E-15,-43,0</p>
+            <p b="-0.11848670513866151">-6.99997236275287,-42.9999999999998,0</p>
+            <p>-9.27219008249,-42.4538785045,0</p>
+            <p b="-0.28189222151883203">-23.6355401953951,-35.1262080087376,0</p>
+            <p>-28,-28,0</p>
+            <p b="-0.32046508821944725">-28.00000000002,-27.0000000025091,0</p>
+            <p b="0.32046500903556269">-25.7027026876887,-23.7837831513361,0</p>
+            <p>-23,-20,0</p>
+            <p b="0.41421364366385366">-23,19.9999999888,0</p>
+            <p b="-0.1989123859444473">-26.0000008326632,22.9999999887903,0</p>
+            <p>-32.2426364329,25.5857826162,0</p>
+            <p b="-0.19891243308308218">-33.8284264940048,27.1715721203126,0</p>
+            <p>-35,30,0</p>
+            <p b="-0.19891229353871848">-35.0000000000099,31.4999999997295,0</p>
+            <p>-33.8388348073259,34.3033004401969,0</p>
+            <p b="-0.19891242123151781">-17.0710696586,51.0710672677,0</p>
+            <p>-10.0000000000259,53.9999999999999,0</p>
+            <p>-1.32261854308E-14,54,0</p>
+            <p b="-0.19891237286363722">9.99999999999,54,0</p>
+            <p>17.0710679303025,51.0710675883885,0</p>
+            <p b="-0.19891239347387454">33.8388339184,34.3033016003,0</p>
+            <p>35.00000000001,31.5000000035649,0</p>
+            <p b="-0.19891231376918692">35,30,0</p>
+            <p>33.8284273312218,27.1715736140294,0</p>
+            <p b="-0.19891245377750627">32.2426375486,25.5857838314,0</p>
+            <p b="0.4142135737860369">26.0000001616459,22.9999999545905,0</p>
+            <p>23,19.9999999993153,0</p>
+            <p b="0.32046504380035257">23,-20,0</p>
+            <p b="-0.32046504911168638">25.7027026505349,-23.7837836785977,0</p>
+            <p>28.00000000002,-27.0000000209,0</p>
+            <p b="-0.28189201585538637">28,-28,0</p>
+            <p>23.6355468456308,-35.126205994018,0</p>
+            <p b="-0.11848581167883904">9.27220218005,-42.4538871675,0</p>
+          </pts>
+        </pline>
+        <pline id="59" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>4.4,2.7,0</p>
+            <p>2.4,2.7,0</p>
+            <p>2.4,-2.7,0</p>
+            <p>4.4,-2.7,0</p>
+            <p>4.9,-4,0</p>
+            <p>19.4,-4,0</p>
+            <p>19.4,4,0</p>
+            <p>4.9,4,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Base</ActiveLayer>
+</CADFile>

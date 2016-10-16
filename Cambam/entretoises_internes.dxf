@@ -1,0 +1,938 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$EXTMAX
+ 10
+18.0
+ 20
+21.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+-18.0
+ 20
+0.0
+ 30
+0.0
+  9
+$INSUNITS
+ 70
+     4
+  9
+$LUNITS
+ 70
+     2
+  9
+$LUPREC
+ 70
+     4
+  9
+$MEASUREMENT
+ 70
+     1
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+LAYER
+ 70
+     1
+  0
+LAYER
+  2
+0
+ 70
+     0
+ 62
+     7
+  6
+Continuous
+  0
+LAYER
+  2
+SupportsMoteurs
+ 70
+     0
+ 62
+    70
+  6
+Continuous
+  0
+ENDTAB
+  0
+TABLE
+  2
+APPID
+ 70
+     1
+  0
+APPID
+  2
+ACAD
+ 70
+     0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+12.9150261324
+ 20
+10.15
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+-12.9150261324
+ 20
+10.15
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+0.0
+ 20
+8.5
+ 30
+0.0
+ 40
+3.1
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+4.33012701892
+ 20
+11.0
+ 30
+0.0
+ 40
+0.85
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+-4.33012701892
+ 20
+11.0
+ 30
+0.0
+ 40
+0.85
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+-9.4
+ 20
+7.5
+ 30
+0.0
+ 40
+1.8
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+0.0
+ 20
+3.5
+ 30
+0.0
+ 40
+0.85
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+9.4
+ 20
+7.5
+ 30
+0.0
+ 40
+1.8
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+-13.4
+ 20
+5.0
+ 30
+0.0
+ 40
+1.8
+  0
+CIRCLE
+  8
+SupportsMoteurs
+ 10
+13.4
+ 20
+5.0
+ 30
+0.0
+ 40
+1.8
+  0
+POLYLINE
+  8
+SupportsMoteurs
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+2.0749999999373
+ 20
+12.0940054257416
+ 42
+0.2679489111573
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-2.074996227364
+ 20
+12.0940076038285
+ 42
+-1.0000069835868
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-2.9249934911228
+ 20
+13.5662523699804
+ 42
+-0.2679488327074
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+2.9249997074092
+ 20
+13.5662487810663
+ 42
+-1.0000001987712
+  0
+SEQEND
+  0
+POLYLINE
+  8
+SupportsMoteurs
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-4.15
+ 20
+8.4999999999203
+ 42
+0.2679489111587
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-2.0750037726433
+ 20
+4.9059967524205
+ 42
+-1.0000069835841
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-2.925006508844
+ 20
+3.4337551457844
+ 42
+-0.2679488327102
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-5.85
+ 20
+8.4999996621759
+ 42
+-1.0000001987677
+  0
+SEQEND
+  0
+POLYLINE
+  8
+SupportsMoteurs
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+2.075000000069
+ 20
+4.9059945743344
+ 42
+0.2679489111587
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+4.1500000000112
+ 20
+8.4999956437288
+ 42
+-1.0000069835868
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+5.8499999999668
+ 20
+8.4999924842152
+ 42
+-0.2679488327102
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+2.9250002925643
+ 20
+3.4337515567731
+ 42
+-1.0000001987634
+  0
+SEQEND
+  0
+POLYLINE
+  8
+SupportsMoteurs
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-0.5000000298023
+ 20
+18.25
+ 42
+0.1316524915236
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-1.125
+ 20
+18.0825317547306
+ 42
+0.5773502691896
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-1.125
+ 20
+15.9174682452695
+ 42
+0.1316525018751
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-0.5
+ 20
+15.75
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+0.5
+ 20
+15.75
+ 42
+0.4142135623731
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+1.75
+ 20
+17.0
+ 42
+0.4142135716109
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+0.5
+ 20
+18.25
+ 42
+0.0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+SupportsMoteurs
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+18.0
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+18.0
+ 20
+0.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+15.0
+ 20
+0.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+15.0
+ 20
+1.0
+ 42
+0.9999998751165
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+13.8
+ 20
+1.0000000000001
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+13.0
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+13.0
+ 20
+1.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+6.3264988269382
+ 20
+5.5041007038371
+ 42
+-0.4382420225446
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-3.5
+ 20
+2.4378221735089
+ 42
+-0.1523973303646
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-6.3264988269382
+ 20
+5.5041007038371
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-13.0
+ 20
+1.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-13.0
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-13.8
+ 20
+1.0000000000001
+ 42
+0.9999998751165
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-15.0
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-15.0
+ 20
+0.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-18.0
+ 20
+0.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-18.0
+ 20
+1.0000000000033
+ 42
+-0.0645795012872
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-17.8808848496276
+ 20
+1.9183901817874
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-15.3178422518542
+ 20
+10.8402714655054
+ 42
+-0.133144387811
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-14.6402085015935
+ 20
+11.9593495497068
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-12.5
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-12.0
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-12.0
+ 20
+12.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-8.0
+ 20
+12.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-8.0
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-5.5
+ 20
+14.0
+ 42
+0.3167544014997
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-5.0292549987441
+ 20
+14.3314795448837
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-3.0
+ 20
+20.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-2.7
+ 20
+19.9999999999678
+ 42
+0.9999999812796
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-1.5
+ 20
+19.9999999999678
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+-1.5
+ 20
+21.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+1.5
+ 20
+21.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+1.5
+ 20
+19.999999999985
+ 42
+0.9999999929751
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+2.7
+ 20
+19.9999999999678
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+3.0
+ 20
+20.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+5.0292549929649
+ 20
+14.3314795610274
+ 42
+0.3167544014997
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+5.5
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+8.0
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+8.0
+ 20
+12.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+12.0
+ 20
+12.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+12.0
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+12.5
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+14.6402085015935
+ 20
+11.9593495497068
+ 42
+-0.133144387811
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+15.3178422518542
+ 20
+10.8402714655054
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsMoteurs
+ 10
+17.8808848496276
+ 20
+1.9183901817874
+ 42
+-0.0645795012872
+  0
+SEQEND
+  0
+ENDSEC
+  0
+EOF
