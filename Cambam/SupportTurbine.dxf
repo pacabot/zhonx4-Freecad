@@ -19,7 +19,7 @@ $EXTMIN
  10
 -22.5
  20
-7.5
+8.0
  30
 0.0
   9
@@ -97,9 +97,9 @@ CIRCLE
   8
 SupportsTurbines
  10
--4.25
+0.0
  20
-25.0
+20.75
  30
 0.0
  40
@@ -121,9 +121,9 @@ CIRCLE
   8
 SupportsTurbines
  10
-4.25
+0.0
  20
-25.0
+29.25
  30
 0.0
  40
@@ -133,9 +133,9 @@ CIRCLE
   8
 SupportsTurbines
  10
-0.0
+3.5
  20
-21.5
+25.0
  30
 0.0
  40
@@ -157,289 +157,13 @@ CIRCLE
   8
 SupportsTurbines
  10
-0.0
+-3.5
  20
-28.5
+25.0
  30
 0.0
  40
 0.8
-  0
-CIRCLE
-  8
-SupportsTurbines
- 10
-15.5
- 20
-11.5
- 30
-0.0
- 40
-1.25
-  0
-POLYLINE
-  8
-SupportsTurbines
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-4.8525104430801
- 20
-28.0847434901137
- 42
--0.0869975021026
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-5.6124860801609
- 20
-26.25
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-12.2815684781952
- 20
-26.25
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-12.0417949875389
- 20
-27.5447768495442
- 42
--0.2469725183643
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-12.7322330470336
- 20
-29.7677669529664
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-14.4644660940673
- 20
-31.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-8.2677669529664
- 20
-31.5
- 42
-0.0
-  0
-SEQEND
-  0
-POLYLINE
-  8
-SupportsTurbines
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-1.25
- 20
-19.3875139198391
- 42
-0.0869975021026
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-3.0847434901137
- 20
-20.1474895569199
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-12.2322330470336
- 20
-11.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-1.25
- 20
-11.0
- 42
-0.0
-  0
-SEQEND
-  0
-POLYLINE
-  8
-SupportsTurbines
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-1.25
- 20
-30.6124860801609
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-1.25
- 20
-31.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-4.7322330470336
- 20
-31.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-3.0847434901137
- 20
-29.8525104430801
- 42
-0.0869975021026
-  0
-SEQEND
-  0
-POLYLINE
-  8
-SupportsTurbines
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-5.6124860801609
- 20
-23.75
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-12.7445314411582
- 20
-23.75
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-14.4574944041212
- 20
-14.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-12.2677669529664
- 20
-14.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-4.8525104430801
- 20
-21.9152565098863
- 42
-0.0869975021026
-  0
-SEQEND
   0
 CIRCLE
   8
@@ -457,13 +181,37 @@ CIRCLE
   8
 SupportsTurbines
  10
--15.5
+8.0
  20
-11.5
+33.0
  30
 0.0
  40
-1.25
+0.4
+  0
+CIRCLE
+  8
+SupportsTurbines
+ 10
+10.54
+ 20
+33.0
+ 30
+0.0
+ 40
+0.4
+  0
+CIRCLE
+  8
+SupportsTurbines
+ 10
+13.08
+ 20
+33.0
+ 30
+0.0
+ 40
+0.4
   0
 POLYLINE
   8
@@ -478,370 +226,6 @@ SupportsTurbines
 0.0
  70
      1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--4.8525104430801
- 20
-28.0847434901137
- 42
-0.0869975021026
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--5.6124860801609
- 20
-26.25
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--12.2815684781952
- 20
-26.25
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--12.0417949875389
- 20
-27.5447768495442
- 42
-0.2469725183643
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--12.7322330470336
- 20
-29.7677669529664
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--14.4644660940673
- 20
-31.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--8.2677669529664
- 20
-31.5
- 42
-0.0
-  0
-SEQEND
-  0
-POLYLINE
-  8
-SupportsTurbines
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--1.25
- 20
-19.3875139198391
- 42
--0.0869975021026
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--3.0847434901137
- 20
-20.1474895569199
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--12.2322330470336
- 20
-11.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--1.25
- 20
-11.0
- 42
-0.0
-  0
-SEQEND
-  0
-POLYLINE
-  8
-SupportsTurbines
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--1.25
- 20
-30.6124860801609
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--1.25
- 20
-31.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--4.7322330470336
- 20
-31.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--3.0847434901137
- 20
-29.8525104430801
- 42
--0.0869975021026
-  0
-SEQEND
-  0
-POLYLINE
-  8
-SupportsTurbines
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--5.6124860801609
- 20
-23.75
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--12.7445314411582
- 20
-23.75
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--14.4574944041212
- 20
-14.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--12.2677669529664
- 20
-14.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--4.8525104430801
- 20
-21.9152565098863
- 42
--0.0869975021026
-  0
-SEQEND
-  0
-POLYLINE
-  8
-SupportsTurbines
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-0.0
- 20
-8.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-17.5
- 20
-8.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-18.5
- 20
-7.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-19.5
- 20
-7.5
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-19.5
- 20
-8.0
- 42
--1.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-21.0
- 20
-8.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-22.5
- 20
-8.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-22.5
- 20
-12.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-19.5
- 20
-12.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-17.0
- 20
-14.5
- 42
-0.0
   0
 VERTEX
   8
@@ -857,59 +241,9 @@ VERTEX
   8
 SupportsTurbines
  10
-16.5
+19.0
  20
-30.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-18.0
- 20
-30.0
- 42
-0.4142135623731
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-20.5
- 20
-32.5
- 42
-0.4142135543097
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-18.0000000688255
- 20
-35.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
-16.0
- 20
-35.0
- 42
-0.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
 15.0
- 20
-34.0
  42
 0.0
   0
@@ -917,9 +251,9 @@ VERTEX
   8
 SupportsTurbines
  10
-0.0
+19.5
  20
-34.0
+15.0
  42
 0.0
   0
@@ -927,9 +261,9 @@ VERTEX
   8
 SupportsTurbines
  10
--15.0
+22.5
  20
-34.0
+15.0
  42
 0.0
   0
@@ -937,9 +271,9 @@ VERTEX
   8
 SupportsTurbines
  10
--16.0
+22.5
  20
-35.0
+11.0
  42
 0.0
   0
@@ -947,29 +281,19 @@ VERTEX
   8
 SupportsTurbines
  10
--18.0000000688255
+21.0
  20
-35.0
+11.0
  42
-0.4142135543097
+1.0
   0
 VERTEX
   8
 SupportsTurbines
  10
--20.5
+19.5
  20
-32.5
- 42
-0.4142135623731
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--18.0
- 20
-30.0
+11.0
  42
 0.0
   0
@@ -977,9 +301,159 @@ VERTEX
   8
 SupportsTurbines
  10
--16.5
+19.5
  20
-30.0
+10.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+18.5
+ 20
+10.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+11.0
+ 20
+8.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+10.25
+ 20
+8.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+10.25
+ 20
+19.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-10.25
+ 20
+19.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-10.25
+ 20
+8.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-11.0
+ 20
+8.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-18.5
+ 20
+10.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-19.5
+ 20
+10.5
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-19.5
+ 20
+11.0
+ 42
+1.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-21.0
+ 20
+11.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-22.5
+ 20
+11.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-22.5
+ 20
+15.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-19.5
+ 20
+15.0
+ 42
+0.0
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-19.0
+ 20
+15.0
  42
 0.0
   0
@@ -997,9 +471,9 @@ VERTEX
   8
 SupportsTurbines
  10
--17.0
+-16.5
  20
-14.5
+30.0
  42
 0.0
   0
@@ -1007,9 +481,29 @@ VERTEX
   8
 SupportsTurbines
  10
--19.5
+-18.0
  20
-12.0
+30.0
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-20.5
+ 20
+32.5
+ 42
+-0.4142135543097
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+-18.0000000688255
+ 20
+35.0
  42
 0.0
   0
@@ -1017,9 +511,9 @@ VERTEX
   8
 SupportsTurbines
  10
--22.5
+-16.0
  20
-12.0
+35.0
  42
 0.0
   0
@@ -1027,9 +521,9 @@ VERTEX
   8
 SupportsTurbines
  10
--22.5
+-15.0
  20
-8.0
+34.0
  42
 0.0
   0
@@ -1037,19 +531,9 @@ VERTEX
   8
 SupportsTurbines
  10
--21.0
+15.0
  20
-8.0
- 42
--1.0
-  0
-VERTEX
-  8
-SupportsTurbines
- 10
--19.5
- 20
-8.0
+34.0
  42
 0.0
   0
@@ -1057,9 +541,9 @@ VERTEX
   8
 SupportsTurbines
  10
--19.5
+16.0
  20
-7.5
+35.0
  42
 0.0
   0
@@ -1067,9 +551,29 @@ VERTEX
   8
 SupportsTurbines
  10
--18.5
+18.0000000688255
  20
-7.5
+35.0
+ 42
+-0.4142135543097
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+20.5
+ 20
+32.5
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+SupportsTurbines
+ 10
+18.0
+ 20
+30.0
  42
 0.0
   0
@@ -1077,9 +581,9 @@ VERTEX
   8
 SupportsTurbines
  10
--17.5
+16.5
  20
-8.5
+30.0
  42
 0.0
   0
