@@ -9,115 +9,71 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <circle id="666" c="8.49,14.55,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="671" c="-6.97,14.55,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="672" c="-9.51,14.55,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="673" c="-8.49,12.01,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="674" c="-12.05,14.55,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="675" c="-11.03,12.01,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="676" c="-5.95,12.01,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="677" c="18,32.5,0" d="2">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="678" c="9.51,12.01,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="679" c="11.03,14.55,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="680" c="12.05,12.01,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="681" c="6.97,12.01,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="682" c="-2.54,33,0" d="0.8">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="683" c="0,33,0" d="0.8">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="684" c="2.54,33,0" d="0.8">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="685" c="5.95,14.55,0" d="0.8">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>9</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="686" c="-18,32.5,0" d="2">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="687" c="-2.54,-33,0" d="0.8">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="688" c="0,-33,0" d="0.8">
-          <ModificationCount>0</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="689" c="2.54,-33,0" d="0.8">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="690" c="18,-32.5,0" d="2">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="691" c="-18,-32.5,0" d="2">
-          <ModificationCount>0</ModificationCount>
+          <ModificationCount>4</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <pline id="294" Closed="true">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>19.5,1.5,0</p>
-            <p>19.5,-1.5,0</p>
-            <p>21.004977,-1.495573,0</p>
-            <p>21.004977,1.504427,0</p>
-          </pts>
-        </pline>
-        <pline id="295" Closed="true">
-          <ModificationCount>1</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>-21,-1.5,0</p>
-            <p>-19.5,-1.5,0</p>
-            <p>-19.5,1.5,0</p>
-            <p>-21,1.5,0</p>
-          </pts>
-        </pline>
         <pline id="296" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-35,31.5,0</p>
@@ -157,7 +113,7 @@
           </pts>
         </pline>
         <pline id="714" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.41421356237309503">-15,-27.5,0</p>
@@ -170,24 +126,76 @@
             <p>-15,-9.5,0</p>
           </pts>
         </pline>
-        <pline id="297" Closed="true">
-          <ModificationCount>1</ModificationCount>
+        <circle id="77" c="-16.5,9.96,0" d="0.8">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="78" c="-16.5,12.5,0" d="0.8">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="79" c="-16.5,15.04,0" d="0.8">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="459" c="-12.54,-32.5,0" d="0.8">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="460" c="-10,-32.5,0" d="0.8">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="461" c="-7.46,-32.5,0" d="0.8">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="17" Closed="true">
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>13.5,6,0</p>
-            <p b="-0.41421356237309503">-13.5,6,0</p>
-            <p>-14.5,7,0</p>
+            <p b="-0.41421356237309503">3.5,9,0</p>
+            <p>4.5,10,0</p>
+            <p b="-0.41421356237309503">13.5,10,0</p>
+            <p>14.5,9,0</p>
+            <p b="-0.41421356237309503">14.5,5,0</p>
+            <p>13.5,4,0</p>
+            <p b="-0.41421356237309503">-13.5,4,0</p>
+            <p>-14.5,5,0</p>
             <p b="-0.41421356237309503">-14.5,9,0</p>
             <p>-13.5,10,0</p>
             <p b="-0.41421356237309503">-4.5,10,0</p>
             <p b="0.41421356237309503">-3.5,9,0</p>
             <p>-2.5,8,0</p>
             <p b="0.41421356237309503">2.5,8,0</p>
-            <p b="-0.41421356237309503">3.5,9,0</p>
-            <p>4.5,10,0</p>
-            <p b="-0.41421356237309503">13.5,10,0</p>
-            <p>14.5,9,0</p>
-            <p b="-0.41421356237309503">14.5,7,0</p>
+          </pts>
+        </pline>
+        <pline id="3" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-21,-1.5,0</p>
+            <p b="0.99999999999999989">-19.5,-1.5,0</p>
+            <p>-19.5,-0.5,0</p>
+            <p b="0.99999999999999989">-19.5,0.5,0</p>
+            <p>-19.5,1.5,0</p>
+            <p b="0.99999999999999989">-21,1.5,0</p>
+            <p>-21,0.5,0</p>
+            <p b="0.99999999999999989">-21,-0.5,0</p>
+          </pts>
+        </pline>
+        <pline id="4" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>21,-1.5,0</p>
+            <p b="-0.99999999999999989">19.5,-1.5,0</p>
+            <p>19.5,-0.499999999999998,0</p>
+            <p b="-0.99999999999999989">19.5,0.500000000000002,0</p>
+            <p>19.5,1.5,0</p>
+            <p b="-0.99999999999999989">21,1.5,0</p>
+            <p>21,0.500000000000003,0</p>
+            <p b="-0.99999999999999989">21,-0.499999999999997,0</p>
           </pts>
         </pline>
       </objects>
