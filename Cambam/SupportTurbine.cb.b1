@@ -9,47 +9,47 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <circle id="23" c="0,20.75,0" d="1.6">
-          <ModificationCount>35</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="37" c="18,32.5,0" d="2">
-          <ModificationCount>12</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="38" c="0,29.25,0" d="1.6">
-          <ModificationCount>35</ModificationCount>
-          <mat m="Identity" />
-        </circle>
-        <circle id="49" c="3.5,25,0" d="1.6">
           <ModificationCount>37</ModificationCount>
           <mat m="Identity" />
         </circle>
+        <circle id="37" c="18,32.5,0" d="2">
+          <ModificationCount>14</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="38" c="0,29.25,0" d="1.6">
+          <ModificationCount>37</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="49" c="3.5,25,0" d="1.6">
+          <ModificationCount>39</ModificationCount>
+          <mat m="Identity" />
+        </circle>
         <circle id="50" c="0,25,0" d="4">
-          <ModificationCount>13</ModificationCount>
+          <ModificationCount>15</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="51" c="-3.5,25,0" d="1.6">
-          <ModificationCount>36</ModificationCount>
+          <ModificationCount>38</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="17" c="-18,32.5,0" d="2">
-          <ModificationCount>11</ModificationCount>
+          <ModificationCount>13</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="70" c="8,33,0" d="0.8">
-          <ModificationCount>31</ModificationCount>
+        <circle id="70" c="-2.54,33,0" d="0.8">
+          <ModificationCount>70</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="72" c="10.54,33,0" d="0.8">
-          <ModificationCount>32</ModificationCount>
+        <circle id="72" c="0,33,0" d="0.8">
+          <ModificationCount>71</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="74" c="13.08,33,0" d="0.8">
-          <ModificationCount>32</ModificationCount>
+        <circle id="74" c="2.54,33,0" d="0.8">
+          <ModificationCount>71</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="100" Closed="true">
-          <ModificationCount>3</ModificationCount>
+          <ModificationCount>5</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>14.5,28,0</p>
