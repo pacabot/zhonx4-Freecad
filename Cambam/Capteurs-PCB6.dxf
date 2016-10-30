@@ -1,0 +1,1014 @@
+  0
+SECTION
+  2
+HEADER
+  9
+$ACADVER
+  1
+AC1009
+  9
+$INSBASE
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMIN
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  9
+$EXTMAX
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+ENDSEC
+  0
+SECTION
+  2
+TABLES
+  0
+TABLE
+  2
+VPORT
+ 70
+0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LTYPE
+ 70
+1
+  0
+LTYPE
+  2
+CONTINUOUS
+ 70
+0
+  3
+Solid line
+ 72
+65
+ 73
+0
+ 40
+0.0
+  0
+ENDTAB
+  0
+TABLE
+  2
+LAYER
+ 70
+1
+  0
+LAYER
+  2
+0
+ 70
+64
+ 62
+7
+  6
+continuous
+  0
+ENDTAB
+  0
+TABLE
+  2
+STYLE
+ 70
+1
+  0
+STYLE
+  2
+STANDARD
+ 70
+0
+ 40
+0
+ 41
+1.0
+ 50
+0.0
+ 71
+0
+ 42
+1
+ 3
+ARIAL.TTF
+ 4
+
+  0
+ENDTAB
+  0
+TABLE
+  2
+VIEW
+ 70
+0
+  0
+ENDTAB
+  0
+ENDSEC
+  0
+SECTION
+  2
+BLOCKS
+  0
+BLOCK
+  8
+SupportsCapteurs
+  2
+POCKET030
+ 70
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  3
+POCKET030
+  0
+POLYLINE
+  8
+SupportsCapteurs
+ 62
+0
+ 70
+0
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.7326716627
+ 20
+-9.0
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.7314219231
+ 20
+-9.04997916927
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.727675828
+ 20
+-9.09983341665
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.7214427407
+ 20
+-9.14943813247
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.7127382406
+ 20
+-9.1986693308
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.7015840844
+ 20
+-9.24740395925
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.6880081519
+ 20
+-9.29552020666
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.6720443756
+ 20
+-9.34289780746
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.6537326567
+ 20
+-9.38941834231
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.6331187651
+ 20
+-9.43496553411
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.6102542246
+ 20
+-9.4794255386
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.5851961848
+ 20
+-9.52268722893
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.5580072776
+ 20
+-9.5646424734
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.5287554613
+ 20
+-9.60518640574
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.49751385
+ 20
+-9.64421768724
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.4643605316
+ 20
+-9.68163876002
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.4293783721
+ 20
+-9.7173560909
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.3926548086
+ 20
+-9.75128040514
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.354281631
+ 20
+-9.78332690963
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.3143547522
+ 20
+-9.81341550479
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.2729739686
+ 20
+-9.84147098481
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.2302427106
+ 20
+-9.86742322559
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.1862677842
+ 20
+-9.89120736006
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.1411591036
+ 20
+-9.91276394026
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.0950294172
+ 20
+-9.93203908597
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.0479940251
+ 20
+-9.94898461936
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-28.0001704914
+ 20
+-9.96355818542
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-27.9516783498
+ 20
+-9.97572335783
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-27.9026388056
+ 20
+-9.98544972999
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-27.8531744321
+ 20
+-9.99271299104
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-27.8034088644
+ 20
+-9.9974949866
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-27.7534664905
+ 20
+-9.99978376419
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-27.7326716627
+ 20
+-10.0
+ 30
+0.0
+  0
+SEQEND
+  8
+SupportsCapteurs
+  0
+POLYLINE
+  8
+SupportsCapteurs
+ 62
+0
+ 70
+0
+ 66
+1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.7326716627
+ 20
+-10.0
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.6826924935
+ 20
+-9.99875026039
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.6328382461
+ 20
+-9.99500416528
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.5832335303
+ 20
+-9.98877107794
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.5340023319
+ 20
+-9.98006657784
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.4852677035
+ 20
+-9.96891242171
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.4371514561
+ 20
+-9.95533648913
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.3897738553
+ 20
+-9.93937271285
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.3432533204
+ 20
+-9.921060994
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.2977061286
+ 20
+-9.90044710235
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.2532461241
+ 20
+-9.87758256189
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.2099844338
+ 20
+-9.85252452206
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.1680291893
+ 20
+-9.82533561491
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.127485257
+ 20
+-9.79608379855
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.0884539755
+ 20
+-9.76484218728
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.0510329027
+ 20
+-9.73168886887
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-23.0153155718
+ 20
+-9.69670670935
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.9813912576
+ 20
+-9.65998314588
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.9493447531
+ 20
+-9.62160996827
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.9192561579
+ 20
+-9.58168308946
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.8912006779
+ 20
+-9.54030230587
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.8652484371
+ 20
+-9.49757104789
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.8414643027
+ 20
+-9.45359612143
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.8199077225
+ 20
+-9.40848744088
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.8006325768
+ 20
+-9.36235775448
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.7836870434
+ 20
+-9.3153223624
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.7691134773
+ 20
+-9.26749882862
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.7569483049
+ 20
+-9.21900668709
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.7472219327
+ 20
+-9.1699671429
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.7399586717
+ 20
+-9.12050276937
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.7351766761
+ 20
+-9.07073720167
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.7328878985
+ 20
+-9.0207948278
+ 30
+0.0
+  0
+VERTEX
+  8
+SupportsCapteurs
+ 10
+-22.7326716627
+ 20
+-9.0
+ 30
+0.0
+  0
+SEQEND
+  8
+SupportsCapteurs
+  0
+LINE
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+-28.7326716627
+ 20
+-1.0
+ 30
+0.0
+ 11
+-30.7326716627
+ 21
+-1.0
+ 31
+0.0
+  0
+LINE
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+-28.7326716627
+ 20
+-9.0
+ 30
+0.0
+ 11
+-28.7326716627
+ 21
+-1.0
+ 31
+0.0
+  0
+LINE
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+-23.7326716627
+ 20
+-10.0
+ 30
+0.0
+ 11
+-27.7326716627
+ 21
+-10.0
+ 31
+0.0
+  0
+LINE
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+-22.7326716627
+ 20
+-1.0
+ 30
+0.0
+ 11
+-22.7326716627
+ 21
+-9.0
+ 31
+0.0
+  0
+LINE
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+-20.7326716627
+ 20
+-1.0
+ 30
+0.0
+ 11
+-22.7326716627
+ 21
+-1.0
+ 31
+0.0
+  0
+LINE
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+-20.7326716627
+ 20
+-1.0
+ 30
+0.0
+ 11
+-20.7326716627
+ 21
+-20.0
+ 31
+0.0
+  0
+LINE
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+-20.7326716627
+ 20
+-20.0
+ 30
+0.0
+ 11
+-30.7326716627
+ 21
+-20.0
+ 31
+0.0
+  0
+LINE
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+-30.7326716627
+ 20
+-1.0
+ 30
+0.0
+ 11
+-30.7326716627
+ 21
+-20.0
+ 31
+0.0
+  0
+ENDBLK
+  0
+ENDSEC
+  0
+SECTION
+  2
+ENTITIES
+  0
+INSERT
+  2
+POCKET030
+  8
+SupportsCapteurs
+ 62
+0
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+  0
+ENDSEC
+  0
+EOF
