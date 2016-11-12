@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.9.8.0" Name="Capteurs-PCB45">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="SupportsCapteurs" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="DiodesLazer" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <circle id="66" c="-2,10.1100046332184,0" d="0.6">
+          <ModificationCount>164</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="71" c="6.8998468635,10.1099982439,0" d="0.6">
+          <ModificationCount>220</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="72" c="6.8998468635,10.1099982439,0" d="0.6">
+          <ModificationCount>148</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="73" c="6.8998468635,12.6499982439,0" d="0.6">
+          <ModificationCount>220</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="77" c="-6.5352016547,10.0895112924,0" d="0.6">
+          <ModificationCount>152</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="78" c="-6.5352016547,10.0895112924,0" d="0.6">
+          <ModificationCount>152</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="79" c="-6.5352016547,12.6295112924,0" d="0.6">
+          <ModificationCount>152</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="90" c="8.16984684173175,11.379996436563,0" d="0.6">
+          <ModificationCount>83</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="91" c="-5.2652015515152,11.3595106346765,0" d="0.6">
+          <ModificationCount>83</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="94" c="-2,10.1100046332184,0" d="0.6">
+          <ModificationCount>151</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="95" c="-2,10.1100046332184,0" d="0.6">
+          <ModificationCount>151</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="96" c="-2,12.6500046332184,0" d="0.6">
+          <ModificationCount>151</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="97" c="-0.730000000000001,11.3800046332184,0" d="0.6">
+          <ModificationCount>151</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="1" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-5,0,0</p>
+            <p>-5,0.5,0</p>
+            <p>-4,1.5,0</p>
+            <p>-4,4,0</p>
+            <p>-8,8,0</p>
+            <p>-10,8,0</p>
+            <p>-10,17,0</p>
+            <p>-11,18,0</p>
+            <p>-11,19,0</p>
+            <p>-10,19,0</p>
+            <p>-10,21,0</p>
+            <p>-5,21,0</p>
+            <p>-5,19,0</p>
+            <p>2,19,0</p>
+            <p>2,21,0</p>
+            <p>10,21,0</p>
+            <p>10,19,0</p>
+            <p>11,19,0</p>
+            <p>11,18,0</p>
+            <p>10,17,0</p>
+            <p>10,8,0</p>
+            <p>4,8,0</p>
+            <p>1,8,0</p>
+            <p>0,7,0</p>
+            <p>0,4,0</p>
+            <p>0,1.5,0</p>
+            <p>1,0.5,0</p>
+            <p>1,0,0</p>
+            <p>0,0,0</p>
+            <p>0,-2,0</p>
+            <p>-4,-2,0</p>
+            <p>-4,0,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>DiodesLazer</ActiveLayer>
+</CADFile>

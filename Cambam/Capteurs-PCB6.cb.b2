@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.9.8.0" Name="Capteurs-PCB6">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="SupportsCapteurs" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="DiodesLazer" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <circle id="77" c="-6.302529992,10.0895112924,0" d="0.6">
+          <ModificationCount>166</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="79" c="-6.302529992,12.6295112924,0" d="0.6">
+          <ModificationCount>166</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="91" c="-5.0325298888152,11.3595106346765,0" d="0.6">
+          <ModificationCount>97</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <pline id="30" Closed="true">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-1.5,0,0</p>
+            <p>-2.5,0,0</p>
+            <p>-2.5,-1,0</p>
+            <p>-4,-1,0</p>
+            <p>-4.5,-1,0</p>
+            <p>-4.5,-2,0</p>
+            <p>-6.5,-2,0</p>
+            <p>-6.5,-1,0</p>
+            <p>-6.5,0,0</p>
+            <p>-7.5,0,0</p>
+            <p>-7.5,0.5,0</p>
+            <p>-6,2,0</p>
+            <p>-6,5,0</p>
+            <p>-9,8,0</p>
+            <p>-11.5,8,0</p>
+            <p>-11.5,17,0</p>
+            <p>-12.5,18,0</p>
+            <p>-12.5,19,0</p>
+            <p>-11.5,19,0</p>
+            <p>-11.5,21,0</p>
+            <p>-3.5,21,0</p>
+            <p>-3.5,19,0</p>
+            <p>-1.5,19,0</p>
+            <p>-1.5,8,0</p>
+            <p>-2.5,7,0</p>
+            <p>-3,6.5,0</p>
+            <p>-3,2,0</p>
+            <p>-1.5,0.500000000000002,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>DiodesLazer</ActiveLayer>
+</CADFile>
