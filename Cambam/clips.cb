@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.9.8.0" Name="clips">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="SupportsMoteurs" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="Entretoises" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="PCBTurbin" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="MainBoard" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="Capteurs-PCB6" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="Capteurs-PCB45" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <rect id="2" Closed="true" p="-9.5,-1,0" w="2" h="1.5">
+          <ModificationCount>5</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-9.5,-1,0</p>
+            <p>-7.5,-1,0</p>
+            <p>-7.5,0.5,0</p>
+            <p>-9.5,0.5,0</p>
+          </pts>
+        </rect>
+        <rect id="5" Closed="true" p="-10.5,-2,0" w="4" h="3.5">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-10.5,-2,0</p>
+            <p>-6.5,-2,0</p>
+            <p>-6.5,1.5,0</p>
+            <p>-10.5,1.5,0</p>
+          </pts>
+        </rect>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts>
+    <part Name="Groupe1">
+      <machineops />
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint>0,0</BasePoint>
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
+  <ShowCutWidths>true</ShowCutWidths>
+  <ActiveLayer>Capteurs-PCB45</ActiveLayer>
+  <ActivePart>Groupe1</ActivePart>
+</CADFile>

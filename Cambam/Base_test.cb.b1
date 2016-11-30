@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.9.8.0" Name="Base_test">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="SupportsMoteurs" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="Entretoises" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="PCBTurbin" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="MainBoard" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="Capteurs-PCB6" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="Capteurs-PCB45" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <pline id="172" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>7.00000000000001,-1,0</p>
+            <p>9.00000000000001,-0.999999999999999,0</p>
+          </pts>
+        </pline>
+        <rect id="179" Closed="true" p="-33.5,-1,0" w="3" h="1.5">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-33.5,-1,0</p>
+            <p>-30.5,-1,0</p>
+            <p>-30.5,0.5,0</p>
+            <p>-33.5,0.5,0</p>
+          </pts>
+        </rect>
+        <rect id="180" Closed="true" p="-9.5,-1,0" w="3" h="1.5">
+          <ModificationCount>29</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-9.5,-1,0</p>
+            <p>-6.5,-1,0</p>
+            <p>-6.5,0.5,0</p>
+            <p>-9.5,0.5,0</p>
+          </pts>
+        </rect>
+        <rect id="181" Closed="true" p="6.5,-1,0" w="3" h="1.5">
+          <ModificationCount>19</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>6.5,-1,0</p>
+            <p>9.5,-1,0</p>
+            <p>9.5,0.5,0</p>
+            <p>6.5,0.5,0</p>
+          </pts>
+        </rect>
+        <rect id="182" Closed="true" p="38,-1,0" w="3" h="1.5">
+          <ModificationCount>36</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>38,-1,0</p>
+            <p>41,-1,0</p>
+            <p>41,0.5,0</p>
+            <p>38,0.5,0</p>
+          </pts>
+        </rect>
+        <rect id="183" Closed="true" p="-36.5,-3.5,0" w="80.5" h="6.5">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-36.5,-3.5,0</p>
+            <p>44,-3.5,0</p>
+            <p>44,3,0</p>
+            <p>-36.5,3,0</p>
+          </pts>
+        </rect>
+        <rect id="184" Closed="true" p="-12,-3.5,0" w="0" h="0">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-12,-3.5,0</p>
+            <p>-12,-3.5,0</p>
+            <p>-12,-3.5,0</p>
+            <p>-12,-3.5,0</p>
+          </pts>
+        </rect>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts>
+    <part Name="Groupe1">
+      <machineops />
+      <Stock>
+        <PMin>0,0</PMin>
+        <PMax>0,0</PMax>
+        <Color>255,165,0</Color>
+      </Stock>
+      <ToolProfile>Unspecified</ToolProfile>
+      <Nesting>
+        <BasePoint>0,0</BasePoint>
+        <NestMethod>None</NestMethod>
+      </Nesting>
+    </part>
+  </parts>
+  <ShowCutWidths>true</ShowCutWidths>
+  <ActiveLayer>Capteurs-PCB45</ActiveLayer>
+  <ActivePart>Groupe1</ActivePart>
+</CADFile>
