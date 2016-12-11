@@ -9,7 +9,7 @@ AC1009
   9
 $EXTMAX
  10
-42.5
+46.5
  20
 22.0
  30
@@ -63,57 +63,7 @@ Continuous
   0
 LAYER
   2
-SupportsMoteurs
- 70
-     0
- 62
-    70
-  6
-Continuous
-  0
-LAYER
-  2
-Entretoises
- 70
-     0
- 62
-    70
-  6
-Continuous
-  0
-LAYER
-  2
-PCBTurbin
- 70
-     0
- 62
-    70
-  6
-Continuous
-  0
-LAYER
-  2
-MainBoard
- 70
-     0
- 62
-    70
-  6
-Continuous
-  0
-LAYER
-  2
-Capteurs-PCB6
- 70
-     0
- 62
-    70
-  6
-Continuous
-  0
-LAYER
-  2
-Capteurs-PCB45
+Calque1
  70
      0
  62
@@ -145,7 +95,7 @@ ENTITIES
   0
 CIRCLE
   8
-Capteurs-PCB45
+Calque1
  10
 0.0
  20
@@ -155,117 +105,9 @@ Capteurs-PCB45
  40
 3.5
   0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
--8.0
- 20
-11.0
- 30
-0.0
- 40
-1.5
-  0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
--22.5
- 20
-3.5
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
--6.5
- 20
-3.5
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
--32.5
- 20
-3.0
- 30
-0.0
- 40
-0.75
-  0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
--20.0
- 20
-12.0
- 30
-0.0
- 40
-0.75
-  0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
-22.5
- 20
-3.5
- 30
-0.0
- 40
-1.0
-  0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
-20.0
- 20
-12.0
- 30
-0.0
- 40
-0.75
-  0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
-8.0
- 20
-11.0
- 30
-0.0
- 40
-1.5
-  0
-CIRCLE
-  8
-Capteurs-PCB45
- 10
-6.5
- 20
-3.5
- 30
-0.0
- 40
-1.0
-  0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -279,93 +121,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
- 10
-33.625
- 20
-2.8504809471617
- 42
--0.4745893814177
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-33.4387525100503
- 20
-3.9974949798994
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-35.5033400268007
- 20
-6.3266532797318
- 42
--0.0806597648045
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-36.0
- 20
-6.7320508075689
- 42
--0.5773502691896
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-39.0
- 20
-5.0
- 42
--0.3904660030989
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-37.1633266398659
- 20
-3.0066800536015
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-34.0612474899497
- 20
-2.7525050201006
- 42
--0.1525043487889
-  0
-SEQEND
-  0
-POLYLINE
-  8
-Capteurs-PCB45
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-Capteurs-PCB45
+Calque1
  10
 -35.0
  20
@@ -375,7 +131,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -35.0
  20
@@ -385,7 +141,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -34.29
  20
@@ -395,7 +151,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -32.21
  20
@@ -405,7 +161,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -31.5
  20
@@ -415,7 +171,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -31.5
  20
@@ -425,7 +181,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -32.21
  20
@@ -435,7 +191,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -34.29
  20
@@ -447,7 +203,7 @@ SEQEND
   0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -461,179 +217,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
- 10
--22.0
- 20
-10.5
- 42
--0.114443733769
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--22.1531308996725
- 20
-9.8397397281504
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--24.4083490843452
- 20
-5.2393059038901
- 42
--0.4342160978954
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.0
- 20
-3.5358983848623
- 42
--0.5773502691896
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.0
- 20
-10.4641016151378
- 42
--0.0792947925351
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--28.8224201649759
- 20
-10.9145402121119
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--23.8084075135631
- 20
-11.9679525896901
- 42
--0.4762522361836
-  0
-SEQEND
-  0
-POLYLINE
-  8
-Capteurs-PCB45
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-22.0
- 20
-10.5
- 42
-0.114443733769
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-22.1531308996725
- 20
-9.8397397281504
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-24.4083490843452
- 20
-5.2393059038901
- 42
-0.4342160978954
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-30.0
- 20
-3.5358983848623
- 42
-0.5773502691896
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-30.0
- 20
-10.4641016151378
- 42
-0.0792947925351
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-28.8224201649759
- 20
-10.9145402121119
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-23.8084075135631
- 20
-11.9679525896901
- 42
-0.4762522361836
-  0
-SEQEND
-  0
-POLYLINE
-  8
-Capteurs-PCB45
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-Capteurs-PCB45
+Calque1
  10
 29.0
  20
@@ -643,7 +227,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 29.71
  20
@@ -653,7 +237,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 31.79
  20
@@ -663,7 +247,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 32.5
  20
@@ -673,7 +257,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 32.5
  20
@@ -683,7 +267,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 31.79
  20
@@ -693,7 +277,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 29.71
  20
@@ -703,7 +287,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 29.0
  20
@@ -715,7 +299,7 @@ SEQEND
   0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -729,205 +313,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
- 10
--17.0
- 20
-3.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--11.5
- 20
-3.0
- 42
-0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--8.5
- 20
-6.0
- 42
-0.3123764818362
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--10.444
- 20
-8.808
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--15.592
- 20
-10.744
- 42
-0.2244873527691
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--19.0
- 20
-10.4641016151378
- 42
-0.5773502691896
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--19.0
- 20
-3.5358983848623
- 42
-0.1316524975874
-  0
-SEQEND
-  0
-POLYLINE
-  8
-Capteurs-PCB45
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-17.0
- 20
-3.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-11.5
- 20
-3.0
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-8.5
- 20
-6.0
- 42
--0.3123764818362
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-10.444
- 20
-8.808
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-15.592
- 20
-10.744
- 42
--0.2244873527691
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-19.0
- 20
-10.4641016151378
- 42
--0.5773502691896
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-19.0
- 20
-3.5358983848623
- 42
--0.1316524975874
-  0
-SEQEND
-  0
-POLYLINE
-  8
-Capteurs-PCB45
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-2.9244992926808
- 20
-3.4334625313313
- 42
-0.0001723685998
-  0
-SEQEND
-  0
-POLYLINE
-  8
-Capteurs-PCB45
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-Capteurs-PCB45
+Calque1
  10
 -2.4591970312796
  20
@@ -937,7 +323,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 2.4591970312796
  20
@@ -947,7 +333,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 3.467049002664
  20
@@ -957,7 +343,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -3.467049002664
  20
@@ -969,7 +355,7 @@ SEQEND
   0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -983,7 +369,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 4.1246179406173
  20
@@ -993,7 +379,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 1.6654209093377
  20
@@ -1003,7 +389,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 2.3471068144795
  20
@@ -1013,7 +399,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 5.8141558171435
  20
@@ -1025,7 +411,7 @@ SEQEND
   0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -1039,7 +425,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -1.6654209093377
  20
@@ -1049,7 +435,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -4.1246179406173
  20
@@ -1059,7 +445,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -5.8141558171435
  20
@@ -1069,7 +455,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -2.3471068144795
  20
@@ -1081,7 +467,7 @@ SEQEND
   0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -1095,7 +481,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -1.0
  20
@@ -1105,7 +491,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -1.5
  20
@@ -1115,7 +501,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -1.5
  20
@@ -1125,7 +511,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -1.0
  20
@@ -1135,7 +521,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 1.0
  20
@@ -1145,7 +531,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 2.0
  20
@@ -1155,7 +541,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 1.0
  20
@@ -1167,7 +553,7 @@ SEQEND
   0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -1181,7 +567,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 29.5
  20
@@ -1191,7 +577,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 29.50000000001
  20
@@ -1201,7 +587,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 30.75
  20
@@ -1211,7 +597,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 32.0
  20
@@ -1221,7 +607,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 32.0000000000399
  20
@@ -1231,7 +617,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 31.8325319999976
  20
@@ -1241,7 +627,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 29.6674680000203
  20
@@ -1253,7 +639,7 @@ SEQEND
   0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -1267,7 +653,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -34.5
  20
@@ -1277,7 +663,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -34.49999999999
  20
@@ -1287,7 +673,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -33.25
  20
@@ -1297,7 +683,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -32.0
  20
@@ -1307,7 +693,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -31.9999999999601
  20
@@ -1317,7 +703,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -32.1674680000024
  20
@@ -1327,7 +713,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 -34.3325319999797
  20
@@ -1337,9 +723,33 @@ Capteurs-PCB45
   0
 SEQEND
   0
+CIRCLE
+  8
+Calque1
+ 10
+12.9150261324
+ 20
+10.15
+ 30
+0.0
+ 40
+1.0
+  0
+CIRCLE
+  8
+Calque1
+ 10
+-12.9150261324
+ 20
+10.15
+ 30
+0.0
+ 40
+1.0
+  0
 POLYLINE
   8
-Capteurs-PCB45
+Calque1
  66
      1
  10
@@ -1353,499 +763,225 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-38.0
+-19.19075808055
  20
--0.5
+12.5
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-37.9999999999998
+-19.5
  20
--0.2
+12.5
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-39.0
+-27.5
  20
--0.2
+12.5
  42
-1.0
+0.4142135623731
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-39.0
+-32.0
  20
-0.8
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-38.0
- 20
-0.8
+8.0
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-38.0
+-32.0
  20
-1.0
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-37.0
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-11.0
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-10.21
- 20
-1.0
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-9.5
- 20
-0.29
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-9.5
- 20
--0.5
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-9.0
- 20
--1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
 7.0
- 20
--1.0
  42
--0.4142135623731
+0.4142135623731
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-6.5
+-27.5
  20
--0.5
+2.5
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-6.4999999999998
+-25.5
  20
--0.2
+2.5
+ 42
+0.1622776601684
+  0
+VERTEX
+  8
+Calque1
+ 10
+-24.0
+ 20
+3.0
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-7.5
+-16.5
  20
--0.2
+10.5
  42
-1.0
+0.3156039623922
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-7.5
+-16.5
  20
-0.8
+11.3561387814126
+ 42
+0.1841767057923
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Calque1
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+Calque1
+ 10
+-10.5801294359329
+ 20
+8.8591939759064
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-6.5
+-10.5720347994412
  20
-0.8
+8.8661385101441
+ 42
+-0.3214507105806
+  0
+VERTEX
+  8
+Calque1
+ 10
+-8.482285438676
+ 20
+9.0484831235548
+ 42
+-0.1366575884084
+  0
+VERTEX
+  8
+Calque1
+ 10
+-7.8139497845495
+ 20
+8.3511431807101
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-6.5
+-7.1558825121031
  20
-1.0
+6.2542605954881
  42
-1.0
+0.085055198702
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-5.5
+-6.0
  20
-1.0
+4.0
  42
-0.0
+-0.535183758488
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--0.00000000003
+-6.9250618190361
  20
-1.0000000018188
+2.5
  42
-0.0
+-0.0176960445992
   0
 VERTEX
   8
-Capteurs-PCB45
- 10
--5.5
- 20
-1.0
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--6.5
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--6.5
- 20
-0.8
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--7.5
- 20
-0.8
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--7.5
- 20
--0.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--6.4999999999998
- 20
--0.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--6.5
- 20
--0.5
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
+Calque1
  10
 -7.0
  20
--1.0
+2.5
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--9.0
+-19.0
  20
--1.0
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--9.5
- 20
--0.5
+2.5
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--9.5
+-19.0749381809639
  20
-0.29
+2.5
  42
-1.0
+-0.535183758488
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--10.21
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--11.0
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--29.5
- 20
-1.0
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.5
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.5
- 20
-0.8
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--31.5
- 20
-0.8
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--31.5
- 20
--0.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.4999999999998
- 20
--0.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.5
- 20
--0.5
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--31.0
- 20
--1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--33.0
- 20
--1.0
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--33.5
- 20
--0.5
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--33.5
- 20
-0.29
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--34.21
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--35.0
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--36.0
- 20
-1.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--36.0
- 20
-2.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--34.0
+-20.0
  20
 4.0
  42
@@ -1853,417 +989,375 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--34.0
+-16.0
  20
-10.0
+8.0
+ 42
+-0.2778489838179
+  0
+VERTEX
+  8
+Calque1
+ 10
+-14.1907612146173
+ 20
+8.0
+ 42
+0.3215958621963
+  0
+VERTEX
+  8
+Calque1
+ 10
+-11.287200022065
+ 20
+8.2525854025776
+ 42
+0.0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Calque1
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+Calque1
+ 10
+10.5801294359329
+ 20
+8.8591939759064
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--36.0
+10.5720347994412
  20
-12.0
+8.8661385101441
+ 42
+0.3214507105806
+  0
+VERTEX
+  8
+Calque1
+ 10
+8.482285438676
+ 20
+9.0484831235549
+ 42
+0.1366575884084
+  0
+VERTEX
+  8
+Calque1
+ 10
+7.8139497845495
+ 20
+8.3511431807101
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--36.0
+7.1558825121031
  20
-14.5
+6.2542605954881
  42
-0.0
+-0.085055198702
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--36.0
+6.0
  20
-20.0
+4.0
  42
-0.0
+0.535183758488
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
--35.0
+6.9250618190361
  20
-20.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--34.21
- 20
-20.0
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--33.5
- 20
-20.71
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--33.5
- 20
-21.5
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--33.0
- 20
-22.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--31.0
- 20
-22.0
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.5
- 20
-21.5
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.4999999999998
- 20
-21.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--31.5
- 20
-21.2
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--31.5
- 20
-20.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.5
- 20
-20.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--30.5
- 20
-14.71
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--29.79
- 20
-14.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--15.0
- 20
-14.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--15.0
- 20
-13.21
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--14.29
- 20
-12.5
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--11.71
- 20
-12.5
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--11.0
- 20
-13.21
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--11.0
- 20
-14.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--6.4807406984079
- 20
-14.0
- 42
--0.0860809383131
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--4.25
- 20
-15.8612159321677
- 42
--0.0407440374526
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--3.0
- 20
-16.4529868602934
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--3.0
- 20
-20.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--2.21
- 20
-20.0
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--1.5
- 20
-20.71
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--1.5
- 20
-21.5
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
--1.0
- 20
-22.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-1.0
- 20
-22.0
- 42
--0.4142135623731
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-1.5
- 20
-21.5
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-1.5000000000002
- 20
-21.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-0.5
- 20
-21.2
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-0.5
- 20
-20.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-1.5
- 20
-20.2
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-1.5
- 20
-20.0
- 42
-1.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
 2.5
+ 42
+0.0176960445992
+  0
+VERTEX
+  8
+Calque1
+ 10
+7.0
  20
-20.0
+2.5
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-3.5
- 20
-20.0
- 42
-0.0
-  0
-VERTEX
-  8
-Capteurs-PCB45
- 10
-3.5
- 20
 19.0
+ 20
+2.5
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
+ 10
+19.0749381809639
+ 20
+2.5
+ 42
+0.535183758488
+  0
+VERTEX
+  8
+Calque1
+ 10
+20.0
+ 20
+4.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+16.0
+ 20
+8.0
+ 42
+0.2778489838179
+  0
+VERTEX
+  8
+Calque1
+ 10
+14.1907612146173
+ 20
+8.0
+ 42
+-0.3215958621963
+  0
+VERTEX
+  8
+Calque1
+ 10
+11.287200022065
+ 20
+8.2525854025776
+ 42
+0.0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Calque1
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+Calque1
+ 10
+33.057253278322
+ 20
+6.057253278322
+ 42
+-0.1862730236928
+  0
+VERTEX
+  8
+Calque1
+ 10
+35.2569956289038
+ 20
+7.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+35.5
+ 20
+7.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+42.5
+ 20
+7.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+43.0
+ 20
+6.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+43.0
+ 20
+3.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+42.0
+ 20
+2.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+32.0
+ 20
+2.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+31.9250618190361
+ 20
+2.5
+ 42
+-0.535183758488
+  0
+VERTEX
+  8
+Calque1
+ 10
+31.0
+ 20
+4.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+33.0000000000001
+ 20
+6.0000000000001
+ 42
+-0.0060908822251
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Calque1
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+Calque1
+ 10
+1.0
+ 20
+20.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+1.0
+ 20
+20.0
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+2.0
+ 20
+20.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+3.0
+ 20
+20.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
  10
 3.0
  20
@@ -2273,7 +1367,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 3.0
  20
@@ -2283,7 +1377,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 4.25
  20
@@ -2293,7 +1387,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 6.4807406984079
  20
@@ -2303,7 +1397,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 11.0
  20
@@ -2313,7 +1407,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 11.0
  20
@@ -2323,7 +1417,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 11.71
  20
@@ -2333,7 +1427,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 14.29
  20
@@ -2343,7 +1437,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 15.0
  20
@@ -2353,7 +1447,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 15.0
  20
@@ -2363,7 +1457,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 27.29
  20
@@ -2373,7 +1467,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 28.0
  20
@@ -2383,7 +1477,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 28.0
  20
@@ -2393,7 +1487,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 28.0
  20
@@ -2403,7 +1497,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 28.5
  20
@@ -2413,7 +1507,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 30.5
  20
@@ -2423,7 +1517,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 31.0
  20
@@ -2433,7 +1527,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 31.0000000000002
  20
@@ -2443,7 +1537,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 30.0
  20
@@ -2453,7 +1547,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 30.0
  20
@@ -2463,7 +1557,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 31.0
  20
@@ -2473,7 +1567,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 31.0
  20
@@ -2483,7 +1577,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 32.0
  20
@@ -2493,7 +1587,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 33.5
  20
@@ -2503,7 +1597,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 33.5
  20
@@ -2513,7 +1607,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 33.5
  20
@@ -2523,7 +1617,7 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
 34.5
  20
@@ -2533,9 +1627,9 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-42.5
+46.5
  20
 9.0
  42
@@ -2543,9 +1637,9 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-42.5
+46.5
  20
 8.0
  42
@@ -2553,9 +1647,9 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-41.0
+45.0
  20
 6.5
  42
@@ -2563,9 +1657,9 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-41.0
+45.0
  20
 3.5
  42
@@ -2573,9 +1667,9 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-42.5
+46.5
  20
 2.0
  42
@@ -2583,9 +1677,9 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-42.5
+46.5
  20
 1.0
  42
@@ -2593,9 +1687,9 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-41.71
+45.0
  20
 1.0
  42
@@ -2603,19 +1697,59 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-41.0
+44.0
  20
-0.29
+1.0
  42
 0.0
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-41.0
+44.0
+ 20
+0.8
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+43.0
+ 20
+0.8
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+43.0
+ 20
+-0.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+44.0000000000002
+ 20
+-0.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+44.0
  20
 -0.5
  42
@@ -2623,9 +1757,9 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-40.5
+43.5
  20
 -1.0
  42
@@ -2633,13 +1767,939 @@ Capteurs-PCB45
   0
 VERTEX
   8
-Capteurs-PCB45
+Calque1
  10
-38.5
+41.5
  20
 -1.0
  42
 -0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+41.0
+ 20
+-0.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+41.0
+ 20
+0.29
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+40.29
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+10.21
+ 20
+1.0
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+9.5
+ 20
+0.29
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+9.5
+ 20
+-0.5
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+9.0
+ 20
+-1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+7.0
+ 20
+-1.0
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+6.5
+ 20
+-0.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+6.4999999999998
+ 20
+-0.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+7.5
+ 20
+-0.2
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+7.5
+ 20
+0.8
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+6.5
+ 20
+0.8
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+6.5
+ 20
+1.0
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+5.5
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-0.00000000003
+ 20
+1.0000000018188
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-5.5
+ 20
+1.0
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-6.5
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-6.5
+ 20
+0.8
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-7.5
+ 20
+0.8
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-7.5
+ 20
+-0.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-6.4999999999998
+ 20
+-0.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-6.5
+ 20
+-0.5
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+-7.0
+ 20
+-1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-9.0
+ 20
+-1.0
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+-9.5
+ 20
+-0.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-9.5
+ 20
+0.29
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-10.21
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-29.79
+ 20
+1.0
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-30.5
+ 20
+0.29
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-30.5
+ 20
+-0.5
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+-31.0
+ 20
+-1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.0
+ 20
+-1.0
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.5
+ 20
+-0.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.5000000000002
+ 20
+-0.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-32.5
+ 20
+-0.2
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-32.5
+ 20
+0.8
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.5
+ 20
+0.8
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.5
+ 20
+1.0
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-34.5
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-36.0
+ 20
+1.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-36.0
+ 20
+2.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-34.0
+ 20
+4.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-34.0
+ 20
+10.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-36.0
+ 20
+12.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-36.0
+ 20
+14.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-36.0
+ 20
+20.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-34.5
+ 20
+20.0
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.5
+ 20
+20.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.5
+ 20
+20.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-32.5
+ 20
+20.2
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-32.5
+ 20
+21.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.5000000000002
+ 20
+21.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.5
+ 20
+21.5
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+-33.0
+ 20
+22.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-31.0
+ 20
+22.0
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+-30.5
+ 20
+21.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-30.5
+ 20
+14.71
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-29.79
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-15.0
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-15.0
+ 20
+13.21
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-14.29
+ 20
+12.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-11.71
+ 20
+12.5
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-11.0
+ 20
+13.21
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-11.0
+ 20
+14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-6.4807406984079
+ 20
+14.0
+ 42
+-0.0860809383131
+  0
+VERTEX
+  8
+Calque1
+ 10
+-4.25
+ 20
+15.8612159321677
+ 42
+-0.0407440374526
+  0
+VERTEX
+  8
+Calque1
+ 10
+-3.0
+ 20
+16.4529868602934
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-3.0
+ 20
+20.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-2.21
+ 20
+20.0
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-1.5
+ 20
+20.71
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+-1.5
+ 20
+21.5
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+-1.0
+ 20
+22.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+1.0
+ 20
+22.0
+ 42
+-0.4142135623731
+  0
+VERTEX
+  8
+Calque1
+ 10
+1.5
+ 20
+21.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+1.5000000000002
+ 20
+21.2
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+0.5
+ 20
+21.2
+ 42
+1.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+0.5
+ 20
+20.2
+ 42
+0.0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+Calque1
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+Calque1
+ 10
+27.9701798362504
+ 20
+11.5298201637496
+ 42
+0.1893384065294
+  0
+VERTEX
+  8
+Calque1
+ 10
+25.7064268850023
+ 20
+12.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+25.4999999999999
+ 20
+12.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+19.5
+ 20
+12.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+19.19075808055
+ 20
+12.5
+ 42
+0.1841767057923
+  0
+VERTEX
+  8
+Calque1
+ 10
+16.5
+ 20
+11.3561387814126
+ 42
+0.3156039623922
+  0
+VERTEX
+  8
+Calque1
+ 10
+16.5
+ 20
+10.5
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+24.0
+ 20
+3.0
+ 42
+0.1622776601684
+  0
+VERTEX
+  8
+Calque1
+ 10
+25.5
+ 20
+2.5
+ 42
+0.1622776601684
+  0
+VERTEX
+  8
+Calque1
+ 10
+27.0
+ 20
+3.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+30.5
+ 20
+6.5
+ 42
+0.3597769610865
+  0
+VERTEX
+  8
+Calque1
+ 10
+30.5000000000001
+ 20
+9.0
+ 42
+0.0
+  0
+VERTEX
+  8
+Calque1
+ 10
+28.0
+ 20
+11.5
+ 42
+0.0031298717559
   0
 SEQEND
   0

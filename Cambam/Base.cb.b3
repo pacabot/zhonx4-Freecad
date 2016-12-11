@@ -4,16 +4,8 @@
     <layer name="Base" color="127,255,0">
       <ModificationCount>0</ModificationCount>
       <objects>
-        <line id="428">
-          <ModificationCount>5</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>19.4,4</p>
-            <p>19.4,-4</p>
-          </pts>
-        </line>
         <pline id="59" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>4.4,2.7,0</p>
@@ -27,7 +19,7 @@
           </pts>
         </pline>
         <pline id="60" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.57661581577734144">10.7499738887577,-24.9763063637499,0</p>
@@ -36,7 +28,7 @@
           </pts>
         </pline>
         <pline id="61" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.57661580128504331">10.7499738877269,25.0236941039228,0</p>
@@ -45,7 +37,7 @@
           </pts>
         </pline>
         <pline id="63" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.13165250330014613">-8.52500000048632,51.0074028850462,0</p>
@@ -67,7 +59,7 @@
           </pts>
         </pline>
         <pline id="64" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-4.4,2.7,0</p>
@@ -81,7 +73,7 @@
           </pts>
         </pline>
         <pline id="65" Closed="true">
-          <ModificationCount>1</ModificationCount>
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-23,20,0</p>
@@ -119,7 +111,7 @@
           </pts>
         </pline>
         <pline id="365" Closed="true">
-          <ModificationCount>168</ModificationCount>
+          <ModificationCount>170</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-29.4698704246,29.425093452,0</p>
@@ -129,7 +121,7 @@
           </pts>
         </pline>
         <pline id="368" Closed="true">
-          <ModificationCount>168</ModificationCount>
+          <ModificationCount>170</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>29.4698704246,29.425093452,0</p>
@@ -139,7 +131,7 @@
           </pts>
         </pline>
         <pline id="386" Closed="true">
-          <ModificationCount>198</ModificationCount>
+          <ModificationCount>200</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.99999999999999034">-19.5,30.29,0</p>
@@ -153,7 +145,7 @@
           </pts>
         </pline>
         <pline id="421" Closed="true">
-          <ModificationCount>143</ModificationCount>
+          <ModificationCount>145</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.99999999999999034">-19.5,-7.21,0</p>
@@ -167,7 +159,7 @@
           </pts>
         </pline>
         <pline id="422" Closed="true">
-          <ModificationCount>23</ModificationCount>
+          <ModificationCount>25</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.99999999999999034">-19.5,-31.21,0</p>
@@ -181,7 +173,7 @@
           </pts>
         </pline>
         <pline id="429" Closed="true">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.99999999999999034">19.5,30.29,0</p>
@@ -195,7 +187,7 @@
           </pts>
         </pline>
         <pline id="432" Closed="true">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.99999999999999034">19.5,-31.21,0</p>
@@ -209,7 +201,7 @@
           </pts>
         </pline>
         <pline id="435" Closed="true">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.99999999999999034">-19.5,7.21,0</p>
@@ -223,7 +215,7 @@
           </pts>
         </pline>
         <pline id="436" Closed="true">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="-0.99999999999999034">19.5,-7.21,0</p>
@@ -237,7 +229,7 @@
           </pts>
         </pline>
         <pline id="437" Closed="true">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p b="0.99999999999999034">19.5,7.21,0</p>
