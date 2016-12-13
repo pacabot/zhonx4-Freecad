@@ -13,49 +13,233 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <circle id="77" c="-6.302529992,10.0895112924,0" d="0.6">
-          <ModificationCount>166</ModificationCount>
+          <ModificationCount>170</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="79" c="-6.302529992,12.6295112924,0" d="0.6">
-          <ModificationCount>166</ModificationCount>
+          <ModificationCount>170</ModificationCount>
           <mat m="Identity" />
         </circle>
         <circle id="91" c="-5.0325298888152,11.3595106346765,0" d="0.6">
-          <ModificationCount>97</ModificationCount>
+          <ModificationCount>101</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <pline id="30" Closed="true">
-          <ModificationCount>0</ModificationCount>
+        <pline id="84" Closed="true">
+          <ModificationCount>3</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>-1.5,0,0</p>
-            <p>-2.5,0,0</p>
-            <p>-2.5,-1,0</p>
-            <p>-4,-1,0</p>
-            <p>-4.5,-1,0</p>
-            <p>-4.5,-2,0</p>
-            <p>-6.5,-2,0</p>
-            <p>-6.5,-1,0</p>
-            <p>-6.5,0,0</p>
-            <p>-7.5,0,0</p>
-            <p>-7.5,0.5,0</p>
-            <p>-6,2,0</p>
-            <p>-6,5,0</p>
-            <p>-9,8,0</p>
-            <p>-11.5,8,0</p>
-            <p>-11.5,17,0</p>
-            <p>-12.5,18,0</p>
-            <p>-12.5,19,0</p>
-            <p>-11.5,19,0</p>
-            <p>-11.5,21,0</p>
-            <p>-3.5,21,0</p>
-            <p>-3.5,19,0</p>
-            <p>-1.5,19,0</p>
-            <p>-1.5,8,0</p>
-            <p>-2.5,7,0</p>
-            <p>-3,6.5,0</p>
-            <p>-3,2,0</p>
-            <p>-1.5,0.500000000000002,0</p>
+            <p>-4.5,2.5,0</p>
+            <p b="0.99999999999999989">-4.5,6.5,0</p>
+            <p>-6.5,6.5,0</p>
+            <p b="0.99999999999999967">-6.5,2.5,0</p>
+          </pts>
+        </pline>
+        <arc id="2" p="-7.85355339059335,-0.353553390593274,0" r="0.49999999999998324" s="134.9999999999981" w="-180.00000000000003">
+          <ModificationCount>4</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <line id="5">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-4.5,-1.5</p>
+            <p>-4.5,-0.707106781186548</p>
+          </pts>
+        </line>
+        <arc id="6" p="-4.14644660940673,-0.353553390593274,0" r="0.50000000000000089" s="224.99999999999989" w="-180">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <line id="7">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-3.79289321881345,-3.33066907387547E-16</p>
+            <p>-1.5,0</p>
+          </pts>
+        </line>
+        <line id="8">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-1.5,0</p>
+            <p>-1.5,0.500000000000002</p>
+          </pts>
+        </line>
+        <line id="9">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-1.5,0.500000000000002</p>
+            <p>-3,2</p>
+          </pts>
+        </line>
+        <line id="10">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-3,2</p>
+            <p>-3,6.5</p>
+          </pts>
+        </line>
+        <line id="11">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-3,6.5</p>
+            <p>-2.5,7</p>
+          </pts>
+        </line>
+        <line id="12">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-2.5,7</p>
+            <p>-1.5,8</p>
+          </pts>
+        </line>
+        <line id="13">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-1.5,8</p>
+            <p>-1.5,19</p>
+          </pts>
+        </line>
+        <line id="14">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-1.5,19</p>
+            <p>-2.7928932188135,19</p>
+          </pts>
+        </line>
+        <arc id="15" p="-3.14644660940675,19.3535533905933,0" r="0.49999999999998268" s="314.99999999999812" w="-89.999999999996277">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="16" p="-3.14644660940677,19.3535533905932,0" r="0.49999999999995004" s="225.00000000000173" w="-90.000000000003752">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <line id="17">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-3.5,19.7071067811865</p>
+            <p>-3.5,21</p>
+          </pts>
+        </line>
+        <line id="18">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-3.5,21</p>
+            <p>-11.5,21</p>
+          </pts>
+        </line>
+        <line id="19">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-11.5,21</p>
+            <p>-11.5,19.7071067811866</p>
+          </pts>
+        </line>
+        <arc id="20" p="-11.8535533905933,19.3535533905933,0" r="0.50000000000001776" s="45.000000000002295" w="-90.00000000000432">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="21" p="-11.8535533905933,19.3535533905933,0" r="0.49999999999998518" s="314.99999999999784" w="-89.99999999999568">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <line id="22">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-12.2071067811865,19</p>
+            <p>-12.5,19</p>
+          </pts>
+        </line>
+        <line id="23">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-12.5,19</p>
+            <p>-12.5,18</p>
+          </pts>
+        </line>
+        <line id="24">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-12.5,18</p>
+            <p>-11.5,17</p>
+          </pts>
+        </line>
+        <line id="25">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-11.5,17</p>
+            <p>-11.5,8</p>
+          </pts>
+        </line>
+        <line id="26">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-11.5,8</p>
+            <p>-9,8</p>
+          </pts>
+        </line>
+        <line id="27">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-9,8</p>
+            <p>-8,7</p>
+          </pts>
+        </line>
+        <line id="28">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-8,7</p>
+            <p>-8,2</p>
+          </pts>
+        </line>
+        <line id="29">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-8,2</p>
+            <p>-9.5,0.5</p>
+          </pts>
+        </line>
+        <line id="30">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-9.5,0.5</p>
+            <p>-9.5,0</p>
+          </pts>
+        </line>
+        <pline id="32">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-7.5,-1.5,0</p>
+            <p>-4.5,-1.5,0</p>
+          </pts>
+        </pline>
+        <pline id="33">
+          <ModificationCount>2</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-7.5000000000001,-0.707106781186548,0</p>
+            <p>-7.5,-1.5,0</p>
           </pts>
         </pline>
       </objects>
