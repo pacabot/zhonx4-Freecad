@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.9.8.0" Name="nervure">
+  <layers>
+    <layer name="Par défaut" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <pline id="55">
+          <ModificationCount>19</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-0.99999999999999989">-8.5,4.5,0</p>
+            <p>-8.5,1.5,0</p>
+          </pts>
+        </pline>
+        <pline id="85">
+          <ModificationCount>5</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.99999999999999989">8.5,4.5,0</p>
+            <p>8.5,1.5,0</p>
+          </pts>
+        </pline>
+        <pline id="81" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-0.99999999999999989">16.5,4.5,0</p>
+            <p>16.5,1.5,0</p>
+            <p b="-0.99999999999999989">8.5,1.5,0</p>
+            <p>8.5,4.5,0</p>
+          </pts>
+        </pline>
+        <pline id="51" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.99999999999999989">-16.5,4.5,0</p>
+            <p>-16.5,1.5,0</p>
+            <p b="0.99999999999999989">-8.5,1.5,0</p>
+            <p>-8.5,4.5,0</p>
+          </pts>
+        </pline>
+        <pline id="29" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.99999999999999989">-4,4.5,0</p>
+            <p>-4,1.5,0</p>
+            <p b="0.99999999999999989">4,1.5,0</p>
+            <p>4,4.5,0</p>
+          </pts>
+        </pline>
+        <pline id="96" Closed="true">
+          <ModificationCount>3</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p>-19.5,4.5,0</p>
+            <p>-21,4.5,0</p>
+            <p>-21,1.5,0</p>
+            <p b="-0.41421356237309503">-19.5,1.5,0</p>
+            <p b="-0.41421356237309503">-19,1,0</p>
+            <p>-19.5,0.5,0</p>
+            <p>-19.5,0,0</p>
+            <p>-17.5,0,0</p>
+            <p>-17,0.5,0</p>
+            <p>-1.5,0.5,0</p>
+            <p>-1,0,0</p>
+            <p>4.28612223837832E-16,0,0</p>
+            <p>1,1.22460635382238E-16,0</p>
+            <p>1.5,0.5,0</p>
+            <p>17,0.500000000000002,0</p>
+            <p>17.5,2.14306111918916E-15,0</p>
+            <p>19.5,2.38798238995364E-15,0</p>
+            <p b="-0.41421356237309503">19.5,0.500000000000003,0</p>
+            <p b="-0.41421356237309503">19,1,0</p>
+            <p>19.5,1.5,0</p>
+            <p>21,1.5,0</p>
+            <p>21,4.5,0</p>
+            <p b="-0.41421356237309503">19.5,4.5,0</p>
+            <p b="-0.41421356237309503">19,5,0</p>
+            <p>19.5,5.5,0</p>
+            <p>19.5,6,0</p>
+            <p>17.5,6,0</p>
+            <p>17,5.5,0</p>
+            <p>1.5,5.5,0</p>
+            <p>1,6,0</p>
+            <p>-3.06151588455594E-16,6,0</p>
+            <p>-1,6,0</p>
+            <p>-1.5,5.5,0</p>
+            <p>-17,5.5,0</p>
+            <p>-17.5,6,0</p>
+            <p>-19.5,6,0</p>
+            <p b="-0.41421356237309503">-19.5,5.5,0</p>
+            <p b="-0.41421356237309503">-19,5,0</p>
+          </pts>
+        </pline>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>Par défaut</ActiveLayer>
+</CADFile>
