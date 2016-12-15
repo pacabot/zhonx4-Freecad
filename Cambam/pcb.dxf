@@ -1595,62 +1595,6 @@ VERTEX
   8
 MainBoard
  10
--13.5
- 20
--34.0
- 42
-0.0
-  0
-VERTEX
-  8
-MainBoard
- 10
-13.5
- 20
--34.0
- 42
-0.0
-  0
-VERTEX
-  8
-MainBoard
- 10
-13.5
- 20
--14.0
- 42
-0.0
-  0
-VERTEX
-  8
-MainBoard
- 10
--13.5
- 20
--14.0
- 42
-0.0
-  0
-SEQEND
-  0
-POLYLINE
-  8
-MainBoard
- 66
-     1
- 10
-0.0
- 20
-0.0
- 30
-0.0
- 70
-     1
-  0
-VERTEX
-  8
-MainBoard
- 10
 -8.0
  20
 8.5
@@ -1820,6 +1764,102 @@ MainBoard
 19.0
  20
 8.5
+ 42
+0.0
+  0
+SEQEND
+  0
+POLYLINE
+  8
+MainBoard
+ 66
+     1
+ 10
+0.0
+ 20
+0.0
+ 30
+0.0
+ 70
+     1
+  0
+VERTEX
+  8
+MainBoard
+ 10
+-6.0
+ 20
+-14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+MainBoard
+ 10
+-13.5
+ 20
+-14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+MainBoard
+ 10
+-13.5
+ 20
+-34.0
+ 42
+0.0
+  0
+VERTEX
+  8
+MainBoard
+ 10
+13.5
+ 20
+-34.0
+ 42
+0.0
+  0
+VERTEX
+  8
+MainBoard
+ 10
+13.5
+ 20
+-14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+MainBoard
+ 10
+6.0
+ 20
+-14.0
+ 42
+0.0
+  0
+VERTEX
+  8
+MainBoard
+ 10
+6.0
+ 20
+-12.0
+ 42
+0.0
+  0
+VERTEX
+  8
+MainBoard
+ 10
+-6.0
+ 20
+-12.0
  42
 0.0
   0

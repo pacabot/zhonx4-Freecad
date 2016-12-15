@@ -56,16 +56,16 @@
           <ModificationCount>35</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="116" c="-16.54,-33,0" d="0.8">
-          <ModificationCount>14</ModificationCount>
+        <circle id="116" c="-16.54,-35.5,0" d="0.8">
+          <ModificationCount>19</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="117" c="-14,-33,0" d="0.8">
-          <ModificationCount>14</ModificationCount>
+        <circle id="117" c="-14,-35.5,0" d="0.8">
+          <ModificationCount>19</ModificationCount>
           <mat m="Identity" />
         </circle>
-        <circle id="118" c="-11.46,-33,0" d="0.8">
-          <ModificationCount>14</ModificationCount>
+        <circle id="118" c="-11.46,-35.5,0" d="0.8">
+          <ModificationCount>19</ModificationCount>
           <mat m="Identity" />
         </circle>
         <pline id="247" Closed="true">
@@ -260,64 +260,44 @@
             <p>19.5,-32.79,0</p>
           </pts>
         </pline>
-        <pline id="283" Closed="true">
-          <ModificationCount>3</ModificationCount>
+        <rect id="1" Closed="true" p="-13.5,-34,0" w="27" h="20">
+          <ModificationCount>84</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p b="-0.41421356237309503">19,4.5,0</p>
-            <p>18,3.5,0</p>
-            <p b="-0.41421356237309503">9,3.5,0</p>
-            <p>8,4.5,0</p>
+            <p>-13.5,-34,0</p>
+            <p>13.5,-34,0</p>
+            <p>13.5,-14,0</p>
+            <p>-13.5,-14,0</p>
+          </pts>
+        </rect>
+        <pline id="24" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="0.41421356237309503">-8,8.5,0</p>
+            <p>-9,9.5,0</p>
+            <p b="0.41421356237309503">-18,9.5,0</p>
+            <p>-19,8.5,0</p>
+            <p b="0.41421356237309503">-19,5.5,0</p>
+            <p>-18,4.5,0</p>
+            <p b="0.41421356237309503">-9,4.5,0</p>
+            <p>-8,5.5,0</p>
+          </pts>
+        </pline>
+        <pline id="25" Closed="true">
+          <ModificationCount>1</ModificationCount>
+          <mat m="Identity" />
+          <pts>
+            <p b="-0.41421356237309503">19,5.5,0</p>
+            <p>18,4.5,0</p>
+            <p b="-0.41421356237309503">9,4.5,0</p>
+            <p>8,5.5,0</p>
             <p b="-0.41421356237309503">8,8.5,0</p>
             <p>9,9.5,0</p>
             <p b="-0.41421356237309503">18,9.5,0</p>
             <p>19,8.5,0</p>
           </pts>
         </pline>
-        <pline id="284" Closed="true">
-          <ModificationCount>3</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p b="-0.41421356237309503">-8,4.5,0</p>
-            <p>-9,3.5,0</p>
-            <p b="-0.41421356237309503">-18,3.5,0</p>
-            <p>-19,4.5,0</p>
-            <p b="-0.41421356237309503">-19,8.5,0</p>
-            <p>-18,9.5,0</p>
-            <p b="-0.41421356237309503">-9,9.5,0</p>
-            <p>-8,8.5,0</p>
-          </pts>
-        </pline>
-        <rect id="1" Closed="true" p="-13.5,-30.5,0" w="27" h="20">
-          <ModificationCount>36</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>-13.5,-30.5,0</p>
-            <p>13.5,-30.5,0</p>
-            <p>13.5,-10.5,0</p>
-            <p>-13.5,-10.5,0</p>
-          </pts>
-        </rect>
-        <rect id="2" Closed="true" p="-6,-33.5,0" w="12" h="3">
-          <ModificationCount>40</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>-6,-33.5,0</p>
-            <p>6,-33.5,0</p>
-            <p>6,-30.5,0</p>
-            <p>-6,-30.5,0</p>
-          </pts>
-        </rect>
-        <rect id="3" Closed="true" p="-13.5,-41.5,0" w="27" h="11">
-          <ModificationCount>5</ModificationCount>
-          <mat m="Identity" />
-          <pts>
-            <p>-13.5,-41.5,0</p>
-            <p>13.5,-41.5,0</p>
-            <p>13.5,-30.5,0</p>
-            <p>-13.5,-30.5,0</p>
-          </pts>
-        </rect>
       </objects>
     </layer>
   </layers>

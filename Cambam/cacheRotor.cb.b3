@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CADFile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="0.9.8.0" Name="cacheRotor">
+  <layers>
+    <layer name="0" color="255,255,255">
+      <ModificationCount>0</ModificationCount>
+      <objects />
+    </layer>
+    <layer name="BrushlessMotor001" color="127,255,0">
+      <ModificationCount>0</ModificationCount>
+      <objects>
+        <circle id="1" c="0,25,0" d="13.9">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <circle id="2" c="0,25,0" d="13">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+        <arc id="3" p="-1.04360964315E-14,25,0" r="5.5" s="299.9999896675" w="59.99991545984475">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="4" p="4.25,25,0" r="1.25" s="359.99958255881518" w="180.00079243818479">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="5" p="-2.6645352591E-15,25,0" r="3" s="299.9999909645" w="59.999852787924745">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="6" p="2.125,21.3193920339,0" r="1.25" s="120.000021685" w="179.9999328522">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="7" p="5.55111512313E-15,25,0" r="5.5" s="179.999989649" w="59.999915477999991">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="8" p="-2.125,21.3193920339,0" r="1.25" s="239.999582558" w="180.0007924391">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="9" p="-5.3290705182E-15,25,0" r="3" s="179.999990965" w="59.999852786000019">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="10" p="-4.25,25,0" r="1.25" s="2.16831613972E-05" w="179.99993285783859">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="11" p="8.881784197E-16,25,0" r="3" s="59.9999909645" w="59.9998527865">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="12" p="-2.125,28.6806079661,0" r="1.25" s="119.999582558" w="180.0007924391">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="13" p="2.125,28.6806079661,0" r="1.25" s="240.00002168499998" w="179.9999328522">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <arc id="14" p="-8.881784197E-16,25,0" r="5.5" s="59.9999896675" w="59.9999154595">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </arc>
+        <circle id="15" c="7.34788079488E-16,25,0" d="1.5">
+          <ModificationCount>0</ModificationCount>
+          <mat m="Identity" />
+        </circle>
+      </objects>
+    </layer>
+  </layers>
+  <MachiningOptions>
+    <Stock>
+      <PMin>0,0</PMin>
+      <PMax>0,0</PMax>
+      <Color>255,165,0</Color>
+    </Stock>
+    <ToolProfile>Unspecified</ToolProfile>
+  </MachiningOptions>
+  <parts />
+  <ActiveLayer>BrushlessMotor001</ActiveLayer>
+</CADFile>

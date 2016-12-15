@@ -29,7 +29,7 @@
       <ModificationCount>0</ModificationCount>
       <objects>
         <rect id="2" Closed="true" p="-9.5,-1,0" w="2" h="1.5">
-          <ModificationCount>5</ModificationCount>
+          <ModificationCount>7</ModificationCount>
           <mat m="Identity" />
           <pts>
             <p>-9.5,-1,0</p>
@@ -38,16 +38,20 @@
             <p>-9.5,0.5,0</p>
           </pts>
         </rect>
-        <rect id="5" Closed="true" p="-10.5,-2,0" w="4" h="3.5">
+        <pline id="8" Closed="true">
           <ModificationCount>1</ModificationCount>
           <mat m="Identity" />
           <pts>
-            <p>-10.5,-2,0</p>
-            <p>-6.5,-2,0</p>
-            <p>-6.5,1.5,0</p>
-            <p>-10.5,1.5,0</p>
+            <p b="0.41421356237309503">-6.5,1,0</p>
+            <p>-7,1.5,0</p>
+            <p b="0.41421356237309503">-10,1.5,0</p>
+            <p>-10.5,1,0</p>
+            <p b="0.41421356237309503">-10.5,-1.5,0</p>
+            <p>-10,-2,0</p>
+            <p b="0.41421356237309492">-7,-2,0</p>
+            <p>-6.5,-1.5,0</p>
           </pts>
-        </rect>
+        </pline>
       </objects>
     </layer>
   </layers>
