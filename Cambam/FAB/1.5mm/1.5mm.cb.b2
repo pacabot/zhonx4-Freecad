@@ -1549,7 +1549,7 @@
   <parts>
     <part Name="Groupe1">
       <machineops>
-        <profile Enabled="false">
+        <profile>
           <Style>PVC-1.5mm</Style>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
@@ -1680,7 +1680,7 @@
           </HoldingTabs>
           <SideProfile state="Default" />
         </profile>
-        <profile Enabled="false">
+        <profile>
           <Style>PVC-1.5mm</Style>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
@@ -1811,17 +1811,17 @@
           </HoldingTabs>
           <SideProfile state="Default" />
         </profile>
-        <profile Enabled="false">
+        <profile>
           <Style>PVC-1.5mm</Style>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Value">0.99</ToolDiameter>
+          <ToolDiameter state="Value">1</ToolDiameter>
           <ToolNumber state="Value">1</ToolNumber>
           <ToolProfile state="Default">EndMill</ToolProfile>
           <PlungeFeedrate state="Default">300</PlungeFeedrate>
           <CutFeedrate state="Value">600</CutFeedrate>
-          <MaxCrossoverDistance state="Value">0.001</MaxCrossoverDistance>
+          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
           <StartPoint state="Default" />
           <CustomMOPHeader state="Default" />
           <CustomMOPFooter state="Default" />
@@ -1848,7 +1848,7 @@
           <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
           <CutOrdering state="Default">DepthFirst</CutOrdering>
           <CutWidth state="Default">0</CutWidth>
-          <StepOver state="Value">0.999</StepOver>
+          <StepOver state="Default">0.4</StepOver>
           <StepoverFeedrate state="Default">Vitesse d'avance en plongée</StepoverFeedrate>
           <InsideOutside state="Value">Outside</InsideOutside>
           <MillingDirection state="Default">Conventional</MillingDirection>
