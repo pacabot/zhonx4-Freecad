@@ -13,7 +13,7 @@
           <mat m="Identity" />
         </circle>
         <circle id="34" d="36">
-          <ModificationCount>28</ModificationCount>
+          <ModificationCount>30</ModificationCount>
           <mat m="Identity" />
         </circle>
         <points id="68">
@@ -556,58 +556,6 @@
   <parts>
     <part Name="Groupe1">
       <machineops>
-        <profile>
-          <TargetDepth state="Value">-7.7</TargetDepth>
-          <DepthIncrement state="Value">0.3</DepthIncrement>
-          <FinalDepthIncrement state="Default">0</FinalDepthIncrement>
-          <CutOrdering state="Default">DepthFirst</CutOrdering>
-          <CutWidth state="Default">0</CutWidth>
-          <StepOver state="Default">0.4</StepOver>
-          <StepoverFeedrate state="Default">Vitesse d'avance en plongée</StepoverFeedrate>
-          <InsideOutside state="Value">Inside</InsideOutside>
-          <MillingDirection state="Default">Conventional</MillingDirection>
-          <CollisionDetection state="Default">True</CollisionDetection>
-          <CornerOvercut state="Default">False</CornerOvercut>
-          <LeadInMove state="Default" />
-          <LeadOutMove state="Default" />
-          <HoldingTabs state="Default">
-            <TabMethod>None</TabMethod>
-            <Width>3</Width>
-            <Height>3</Height>
-            <MinimumTabs>3</MinimumTabs>
-            <MaximumTabs>6</MaximumTabs>
-            <TabDistance>40</TabDistance>
-            <SizeThreshold>4</SizeThreshold>
-            <UseLeadIns>False</UseLeadIns>
-            <TabStyle>Triangle</TabStyle>
-          </HoldingTabs>
-          <SideProfile state="Default" />
-          <StockSurface state="Default">0</StockSurface>
-          <RoughingClearance state="Default">0</RoughingClearance>
-          <ClearancePlane state="Default">3</ClearancePlane>
-          <SpindleDirection state="Default">CW</SpindleDirection>
-          <SpindleSpeed state="Default">1000</SpindleSpeed>
-          <SpindleRange state="Default">0</SpindleRange>
-          <VelocityMode state="Default">Undefined</VelocityMode>
-          <primitive>
-            <prim>203</prim>
-          </primitive>
-          <Style>PVC-1.5mm</Style>
-          <Enabled>False</Enabled>
-          <WorkPlane state="Default">XY</WorkPlane>
-          <OptimisationMode state="Default">Experimental</OptimisationMode>
-          <RoughingFinishing state="Default">Roughing</RoughingFinishing>
-          <ToolDiameter state="Default">1.5</ToolDiameter>
-          <ToolNumber state="Default">4</ToolNumber>
-          <ToolProfile state="Default">EndMill</ToolProfile>
-          <PlungeFeedrate state="Value">150</PlungeFeedrate>
-          <CutFeedrate state="Value">300</CutFeedrate>
-          <MaxCrossoverDistance state="Default">0.7</MaxCrossoverDistance>
-          <StartPoint state="Default" />
-          <CustomMOPHeader state="Default" />
-          <CustomMOPFooter state="Default" />
-          <Name>Avant Trou</Name>
-        </profile>
         <pocket>
           <TargetDepth state="Value">-7.7</TargetDepth>
           <DepthIncrement state="Value">0.3</DepthIncrement>
@@ -634,7 +582,6 @@
             <prim>203</prim>
           </primitive>
           <Style>PVC-1.5mm</Style>
-          <Enabled>False</Enabled>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
@@ -705,7 +652,6 @@
             <prim>169</prim>
           </primitive>
           <Style>PVC-1.5mm</Style>
-          <Enabled>False</Enabled>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Value">None</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
@@ -757,7 +703,6 @@
             <prim>2</prim>
           </primitive>
           <Style>PVC-1.5mm</Style>
-          <Enabled>False</Enabled>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
@@ -808,7 +753,6 @@
             <prim>94</prim>
           </primitive>
           <Style>PVC-1.5mm</Style>
-          <Enabled>False</Enabled>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
@@ -860,7 +804,6 @@
             <prim>2</prim>
           </primitive>
           <Style>PVC-1.5mm</Style>
-          <Enabled>False</Enabled>
           <WorkPlane state="Default">XY</WorkPlane>
           <OptimisationMode state="Default">Experimental</OptimisationMode>
           <RoughingFinishing state="Default">Roughing</RoughingFinishing>
@@ -900,37 +843,8 @@
             <UseLeadIns>False</UseLeadIns>
             <TabStyle>Triangle</TabStyle>
           </HoldingTabs>
-          <Tabs>
-            <HoldingTab>
-              <NormalInverted>False</NormalInverted>
-              <ParentEntityID>149</ParentEntityID>
-              <ParametricPoint>0.25</ParametricPoint>
-              <Normal>
-                <X>-6.04903497083975E-16</X>
-                <Y>1</Y>
-              </Normal>
-            </HoldingTab>
-            <HoldingTab>
-              <NormalInverted>False</NormalInverted>
-              <ParentEntityID>149</ParentEntityID>
-              <ParametricPoint>0.583333333333333</ParametricPoint>
-              <Normal>
-                <X>-0.866025403784439</X>
-                <Y>-0.5</Y>
-              </Normal>
-            </HoldingTab>
-            <HoldingTab>
-              <NormalInverted>False</NormalInverted>
-              <ParentEntityID>149</ParentEntityID>
-              <ParametricPoint>0.916666666666667</ParametricPoint>
-              <Normal>
-                <X>0.866025403784438</X>
-                <Y>-0.500000000000001</Y>
-              </Normal>
-            </HoldingTab>
-          </Tabs>
           <SideProfile state="Default" />
-          <StockSurface state="Value">-7</StockSurface>
+          <StockSurface state="Default">0</StockSurface>
           <RoughingClearance state="Default">0</RoughingClearance>
           <ClearancePlane state="Default">3</ClearancePlane>
           <SpindleDirection state="Default">CW</SpindleDirection>
